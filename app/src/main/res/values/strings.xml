@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name" translatable="false">FrasesdeCoach</string>
+    <string name="image_logo" translatable="false">Image Logo</string>
+    <string name="coach" translatable="false">Coach</string>
+    <string name="coach_description" translatable="false">Generate a new coach phrase</string>
+    <string name="generate_phrase" translatable="false">Generate Phrase</string>
+    <string-array name="frases">
+        <item>“Assim que você controlar o seu tempo, compreenderá o quão verdadeiro é o fato de que muitas pessoas superestimam o que elas podem realizar num ano – e subestimam o que elas podem conquistar numa década!” – Tony Robbins, treinador internacional.</item>
+        <item>“Quanto mais eu me conheço, mais eu me curo e me potencializo.”- José Roberto Marques, master coach senior, fundador e presidente do  Instituto Brasileiro de Coaching (IBC).</item>
+        <item>“Se não gosta de alguma coisa, mude-a. Se não puder mudá-la, mude a sua atitude. Não reclame.” – Maya Angelou (1928-2014), escritora americana.</item>
+        <item>“Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.” – Oscar Wilde (1854-1900), escritor irlandês.</item>
+        <item>“Aprendi com a primavera a deixar-me cortar e voltar sempre inteira.”- Cecília Meireles (1901-1964), jornalista e poetisa brasileira.</item>
+        <item>“O que não provoca minha morte faz com que eu fique mais forte.” – Friedrich Nietzsche (1844-1900), filósofo alemão.</item>
+        <item>“Se você quiser alguém em quem confiar Confie em si mesmo Quem acredita sempre alcança”- Renato Russo (1960-1996), músico brasileiro na música “Mais Uma Vez”.</item>
+        <item>“Muitas vezes perdemos a possibilidade de felicidade de tanto nos prepararmos para recebê-la. Por que então não agarrá-la toda de uma vez?” – Jane Austen (1775-1817), escritora britânica.</item>
+        <item>“Os professores abrem a porta, mas você deve entrar por você mesmo.” – provérbio chinês.</item>
+        <item>“As pessoas não carecem de força, carecem de determinação.” – Victor Hugo (1802-1885)</item>
+    </string-array>
+</resources>
